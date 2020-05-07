@@ -1,7 +1,7 @@
 {
-  "name": "call-lib",
+  "name": "web-tele-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "```\r npm install call-lib --save-dev\r //or\r yarn add call-lib\r ```\r ### Demo",
   "main": "./dist/call-lib.js",
   "scripts": {
     "build": "webpack",
@@ -19,5 +19,13 @@
     "uglifyjs-webpack-plugin": "^1.0.0-rc.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jontang-web/call-lib.git"
+  },
+  "homepage": "https://github.com/jontang-web/call-lib#readme",
+  "bugs": {
+    "url": "https://github.com/jontang-web/call-lib/issues"
   }
 }

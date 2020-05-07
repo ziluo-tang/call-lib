@@ -1,9 +1,9 @@
 ### Installation
 
 ```
-npm install call-lib --save-dev
+npm install web-tele-lib --save-dev
 //or
-yarn add call-lib
+yarn add web-tele-lib
 ```
 ### Demo
 
